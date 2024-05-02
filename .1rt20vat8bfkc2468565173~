@@ -1,0 +1,24 @@
+---
+'@id': https://www.apqc.org/10937
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10941
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10943
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10944
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10949
+  '@type': definedTerm
+hid: '10.1'
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/19207
+  '@type': definedTerm
+name: Plan and acquire assets
+termCode: '10937'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10922
+'@type': definedTerm
+hasPart: []
+hid: 9.8.2.6
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10763
+  '@type': definedTerm
+name: Implement and maintain controls-related enabling technologies and tools
+termCode: '10922'
+
+---

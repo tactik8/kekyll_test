@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10906
+'@type': definedTerm
+hasPart: []
+hid: 9.7.3.6
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10760
+  '@type': definedTerm
+name: Calculate interest and fees for in-house bank accounts
+termCode: '10906'
+
+---

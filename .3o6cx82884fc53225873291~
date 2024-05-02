@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10952
+'@type': definedTerm
+hasPart: []
+hid: 10.4.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10940
+  '@type': definedTerm
+name: Develop exit strategy
+termCode: '10952'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11120
+'@type': definedTerm
+hasPart: []
+hid: 13.2.3.1.5
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/16411
+  '@type': definedTerm
+name: Create business case and obtain funding
+termCode: '11120'
+
+---

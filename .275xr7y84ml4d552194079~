@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/20142
+'@type': definedTerm
+hasPart: []
+hid: 13.2.3.2.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/16413
+  '@type': definedTerm
+name: Acquire/secure project resources
+termCode: '20142'
+
+---

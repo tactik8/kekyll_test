@@ -1,0 +1,32 @@
+---
+'@id': https://www.apqc.org/20147
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10270
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10271
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20148
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10272
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10273
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10274
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10275
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10276
+  '@type': definedTerm
+hid: 13.6.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/16436
+  '@type': definedTerm
+name: Evaluate process performance
+termCode: '20147'
+
+---

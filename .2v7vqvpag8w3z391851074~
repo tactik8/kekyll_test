@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11197
+'@type': definedTerm
+hasPart: []
+hid: 13.7.4.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11183
+  '@type': definedTerm
+name: Implement pollution prevention program
+termCode: '11197'
+
+---

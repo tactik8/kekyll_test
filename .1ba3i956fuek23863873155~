@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10936
+'@type': definedTerm
+hasPart: []
+hid: 9.9.2.7
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10766
+  '@type': definedTerm
+name: Address tax inquiries
+termCode: '10936'
+
+---

@@ -1,0 +1,29 @@
+languages:
+    - language: "en" 
+      links:
+        - title: "Home" 
+          url: /
+        - title: "About Us" 
+          url: /en/about_us/
+        - title: "Contacts" 
+          url: /en/contact_us/
+        - title: "Terms and conditions" 
+          url: /en/terms_and_conditions/
+        - title: "Privacy policy" 
+          url: /en/privacy_policy/
+        - title: "Sitemap"
+          url: /sitemap.xml
+    - language: "fr" 
+      links:
+        - title: "Accueil" 
+          url: /fr/accueil/
+        - title: "À propos de nous" 
+          url: /fr/a_propos_de_nous/
+        - title: "Contactez nous" 
+          url: /fr/contactez_nous/
+        - title: "Conditions d'utilisation" 
+          url: /fr/conditions d_utilisation/
+        - title: "Sécurité et confidentialité" 
+          url: /fr/securite_et_confidentialite/
+        - title: "Sitemap"
+          url: /sitemap.xml

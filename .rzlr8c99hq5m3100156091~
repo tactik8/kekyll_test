@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/20117
+'@type': definedTerm
+hasPart: []
+hid: 6.5.3.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10403
+  '@type': definedTerm
+name: Solicit customer feedback on cross-channel experience
+termCode: '20117'
+
+---

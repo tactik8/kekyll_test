@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11174
+'@type': definedTerm
+hasPart: []
+hid: 3.5.2.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10183
+  '@type': definedTerm
+name: Manage customer relationships
+termCode: '11174'
+
+---

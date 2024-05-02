@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/19988
+'@type': definedTerm
+hasPart: []
+hid: 2.2.2.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/19669
+  '@type': definedTerm
+name: Evaluate new product/service inputs and requirements
+termCode: '19988'
+
+---

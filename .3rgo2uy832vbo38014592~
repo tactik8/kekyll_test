@@ -1,0 +1,32 @@
+---
+'@id': https://www.apqc.org/10761
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/14079
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10908
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10909
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10910
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10911
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10912
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10913
+  '@type': definedTerm
+- '@id': https://www.apqc.org/14210
+  '@type': definedTerm
+hid: 9.7.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10734
+  '@type': definedTerm
+name: Manage debt and investment
+termCode: '10761'
+
+---

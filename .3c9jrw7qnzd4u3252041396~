@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/12881
+'@type': definedTerm
+hasPart: []
+hid: 12.2.3.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11040
+  '@type': definedTerm
+name: Extend or change the relationships
+termCode: '12881'
+
+---

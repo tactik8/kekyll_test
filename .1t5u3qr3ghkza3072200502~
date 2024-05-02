@@ -1,0 +1,26 @@
+---
+'@id': https://www.apqc.org/10755
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/14075
+  '@type': definedTerm
+- '@id': https://www.apqc.org/14076
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10866
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10867
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10868
+  '@type': definedTerm
+hid: 9.5.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10732
+  '@type': definedTerm
+name: Manage and process payroll taxes
+termCode: '10755'
+
+---

@@ -1,0 +1,26 @@
+---
+'@id': https://www.apqc.org/16378
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/16379
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16384
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16387
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16392
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16396
+  '@type': definedTerm
+hid: '13.1'
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10013
+  '@type': definedTerm
+name: Manage business processes
+termCode: '16378'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/16817
+'@type': definedTerm
+hasPart: []
+hid: 2.3.1.5
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/19993
+  '@type': definedTerm
+name: Provide warranty-related recommendations
+termCode: '16817'
+
+---

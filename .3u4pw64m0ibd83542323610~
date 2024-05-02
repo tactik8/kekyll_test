@@ -1,0 +1,22 @@
+---
+'@id': https://www.apqc.org/17060
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/16439
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16445
+  '@type': definedTerm
+- '@id': https://www.apqc.org/17462
+  '@type': definedTerm
+hid: '11.1'
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/16437
+  '@type': definedTerm
+name: Manage enterprise risk
+termCode: '17060'
+
+---

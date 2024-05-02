@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/16797
+'@type': definedTerm
+hasPart: []
+hid: 1.1.5.3.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/16795
+  '@type': definedTerm
+name: Evaluate merger options
+termCode: '16797'
+
+---

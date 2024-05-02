@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10675
+'@type': definedTerm
+hasPart: []
+hid: 8.5.4.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10590
+  '@type': definedTerm
+name: Understand confirmed requirements
+termCode: '10675'
+
+---

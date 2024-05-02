@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10457
+'@type': definedTerm
+hasPart: []
+hid: 7.2.3.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20123
+  '@type': definedTerm
+name: Interview candidates
+termCode: '10457'
+
+---

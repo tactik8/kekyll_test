@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10358
+'@type': definedTerm
+hasPart: []
+hid: 4.4.3.6
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10340
+  '@type': definedTerm
+name: Track third-party logistics storage and shipping performance
+termCode: '10358'
+
+---

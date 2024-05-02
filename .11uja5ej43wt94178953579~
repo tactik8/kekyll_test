@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10686
+'@type': definedTerm
+hasPart: []
+hid: 8.6.1.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10592
+  '@type': definedTerm
+name: Establish IT services and solutions change policies
+termCode: '10686'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10967
+'@type': definedTerm
+hasPart: []
+hid: 10.3.1.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/19239
+  '@type': definedTerm
+name: Analyze assets and predict maintenance requirements
+termCode: '10967'
+
+---

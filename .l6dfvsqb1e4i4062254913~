@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10912
+'@type': definedTerm
+hasPart: []
+hid: 9.7.4.6
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10761
+  '@type': definedTerm
+name: Process and oversee foreign currency transactions
+termCode: '10912'
+
+---

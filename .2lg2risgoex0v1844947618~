@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10963
+'@type': definedTerm
+hasPart: []
+hid: 10.1.3.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10944
+  '@type': definedTerm
+name: Acquire workspace and facilities
+termCode: '10963'
+
+---

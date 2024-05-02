@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10456
+'@type': definedTerm
+hasPart: []
+hid: 7.2.3.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20123
+  '@type': definedTerm
+name: Identify and deploy candidate selection tools
+termCode: '10456'
+
+---

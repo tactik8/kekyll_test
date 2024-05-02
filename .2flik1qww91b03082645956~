@@ -1,0 +1,26 @@
+---
+'@id': https://www.apqc.org/19669
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/19986
+  '@type': definedTerm
+- '@id': https://www.apqc.org/19987
+  '@type': definedTerm
+- '@id': https://www.apqc.org/19988
+  '@type': definedTerm
+- '@id': https://www.apqc.org/19989
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10068
+  '@type': definedTerm
+hid: 2.2.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/19698
+  '@type': definedTerm
+name: Generate new product/service concepts
+termCode: '19669'
+
+---

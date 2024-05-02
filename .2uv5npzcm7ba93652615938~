@@ -1,0 +1,18 @@
+---
+'@id': https://www.apqc.org/11182
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/11192
+  '@type': definedTerm
+hid: 13.7.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11179
+  '@type': definedTerm
+name: Train and educate functional employees
+termCode: '11182'
+
+---

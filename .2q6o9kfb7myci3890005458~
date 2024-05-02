@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11468
+'@type': definedTerm
+hasPart: []
+hid: 3.4.2.12
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10130
+  '@type': definedTerm
+name: Communicate planning information to customer teams
+termCode: '11468'
+
+---

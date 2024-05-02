@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10651
+'@type': definedTerm
+hasPart: []
+hid: 8.2.5.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10582
+  '@type': definedTerm
+name: Develop and manage IT customer strategy
+termCode: '10651'
+
+---

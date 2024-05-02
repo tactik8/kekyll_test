@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/20076
+'@type': definedTerm
+hasPart: []
+hid: 5.3.2.7
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20069
+  '@type': definedTerm
+name: Deploy solution
+termCode: '20076'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10966
+'@type': definedTerm
+hasPart: []
+hid: 10.1.4.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10949
+  '@type': definedTerm
+name: Relocate material and tools
+termCode: '10966'
+
+---

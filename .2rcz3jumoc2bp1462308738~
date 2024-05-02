@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/12876
+'@type': definedTerm
+hasPart: []
+hid: 12.2.2.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11039
+  '@type': definedTerm
+name: Respond to audit inquiries
+termCode: '12876'
+
+---

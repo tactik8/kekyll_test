@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/12671
+'@type': definedTerm
+hasPart: []
+hid: 6.3.1.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/12669
+  '@type': definedTerm
+name: Validate warranty claim
+termCode: '12671'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/20107
+'@type': definedTerm
+hasPart: []
+hid: 6.3.2.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20106
+  '@type': definedTerm
+name: Create supplier recovery claims
+termCode: '20107'
+
+---

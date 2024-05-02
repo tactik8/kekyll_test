@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/20136
+'@type': definedTerm
+hasPart: []
+hid: 9.1.1.5
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10738
+  '@type': definedTerm
+name: Perform variance analysis against forecasts and budgets
+termCode: '20136'
+
+---

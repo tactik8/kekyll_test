@@ -1,0 +1,17 @@
+---
+'@id': https://www.apqc.org/20046
+'@type': definedTerm
+hasPart: []
+hid: 5.2.1.5
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20041
+  '@type': definedTerm
+name: Determine availability of skills to deliver on current and forecast customer
+  orders
+termCode: '20046'
+
+---

@@ -1,0 +1,26 @@
+---
+'@id': https://www.apqc.org/10943
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10958
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10959
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10960
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10961
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10962
+  '@type': definedTerm
+hid: 10.1.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10937
+  '@type': definedTerm
+name: Plan facility
+termCode: '10943'
+
+---

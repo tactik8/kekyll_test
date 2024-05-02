@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10881
+'@type': definedTerm
+hasPart: []
+hid: 9.6.2.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10757
+  '@type': definedTerm
+name: Capture and report relevant tax data
+termCode: '10881'
+
+---

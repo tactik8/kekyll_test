@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10189
+'@type': definedTerm
+hasPart: []
+hid: 3.5.1.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10182
+  '@type': definedTerm
+name: Identify/receive leads/opportunities
+termCode: '10189'
+
+---

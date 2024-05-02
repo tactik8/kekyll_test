@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10198
+'@type': definedTerm
+hasPart: []
+hid: 3.5.4.5
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10185
+  '@type': definedTerm
+name: Enter orders into system
+termCode: '10198'
+
+---

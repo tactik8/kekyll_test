@@ -1,0 +1,22 @@
+---
+'@id': https://www.apqc.org/10580
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10644
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10645
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10646
+  '@type': definedTerm
+hid: 8.2.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10564
+  '@type': definedTerm
+name: Perform demand-side management (DSM) for IT services
+termCode: '10580'
+
+---

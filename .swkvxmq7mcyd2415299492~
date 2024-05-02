@@ -1,0 +1,20 @@
+---
+'@id': https://www.apqc.org/20026
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/20027
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20032
+  '@type': definedTerm
+hid: '5.1'
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20025
+  '@type': definedTerm
+name: Establish service delivery governance and strategies
+termCode: '20026'
+
+---

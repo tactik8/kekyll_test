@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10796
+'@type': definedTerm
+hasPart: []
+hid: 9.2.2.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10743
+  '@type': definedTerm
+name: Transmit billing data to customers
+termCode: '10796'
+
+---

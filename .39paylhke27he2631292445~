@@ -1,0 +1,30 @@
+---
+'@id': https://www.apqc.org/10279
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10292
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10293
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10294
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10295
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10296
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10297
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10298
+  '@type': definedTerm
+hid: 4.2.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10216
+  '@type': definedTerm
+name: Order materials and services
+termCode: '10279'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10847
+'@type': definedTerm
+hasPart: []
+hid: 9.4.1.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10751
+  '@type': definedTerm
+name: Conduct financial justification for project approval
+termCode: '10847'
+
+---

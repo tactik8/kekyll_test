@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/20013
+'@type': definedTerm
+hasPart: []
+hid: 3.5.2.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10183
+  '@type': definedTerm
+name: Select key customers/accounts
+termCode: '20013'
+
+---

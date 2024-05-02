@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10786
+'@type': definedTerm
+hasPart: []
+hid: 9.1.4.5
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10741
+  '@type': definedTerm
+name: Track performance of new-customer and product strategies
+termCode: '10786'
+
+---

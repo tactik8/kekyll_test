@@ -1,0 +1,26 @@
+---
+'@id': https://www.apqc.org/10403
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/11238
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11239
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20117
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11240
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11241
+  '@type': definedTerm
+hid: 6.5.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20595
+  '@type': definedTerm
+name: Measure customer satisfaction with products and services
+termCode: '10403'
+
+---

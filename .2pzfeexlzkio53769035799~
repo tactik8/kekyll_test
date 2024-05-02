@@ -1,0 +1,22 @@
+---
+'@id': https://www.apqc.org/10581
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10647
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10648
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10649
+  '@type': definedTerm
+hid: 8.2.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10564
+  '@type': definedTerm
+name: Manage IT customer satisfaction
+termCode: '10581'
+
+---

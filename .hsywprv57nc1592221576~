@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11050
+'@type': definedTerm
+hasPart: []
+hid: 12.4.7
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11013
+  '@type': definedTerm
+name: Resolve disputes and litigations
+termCode: '11050'
+
+---

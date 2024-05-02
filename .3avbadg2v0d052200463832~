@@ -1,0 +1,20 @@
+---
+'@id': https://www.apqc.org/14208
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/16598
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16599
+  '@type': definedTerm
+hid: 3.5.2.5
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10183
+  '@type': definedTerm
+name: Manage customer master data
+termCode: '14208'
+
+---

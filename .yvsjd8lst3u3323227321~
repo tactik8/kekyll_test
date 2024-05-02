@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10502
+'@type': definedTerm
+hasPart: []
+hid: 7.5.1.5
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10494
+  '@type': definedTerm
+name: Administer compensation and rewards to employees
+termCode: '10502'
+
+---

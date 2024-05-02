@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11247
+'@type': definedTerm
+hasPart: []
+hid: 8.2.1.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10578
+  '@type': definedTerm
+name: Coordinate strategies with internal stakeholders to ensure alignment
+termCode: '11247'
+
+---

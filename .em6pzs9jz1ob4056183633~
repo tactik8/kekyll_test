@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11689
+'@type': definedTerm
+hasPart: []
+hid: 6.5.2.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10402
+  '@type': definedTerm
+name: Identify common customer complaints
+termCode: '11689'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/16447
+'@type': definedTerm
+hasPart: []
+hid: 11.1.2.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/16445
+  '@type': definedTerm
+name: Assess risks to determine which to mitigate
+termCode: '16447'
+
+---

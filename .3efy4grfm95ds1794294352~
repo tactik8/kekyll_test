@@ -1,0 +1,17 @@
+---
+'@id': https://www.apqc.org/16453
+'@type': definedTerm
+hasPart: []
+hid: 11.1.2.8
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/16445
+  '@type': definedTerm
+name: Ensure that each business unit/function follows the enterprise risk management
+  process
+termCode: '16453'
+
+---

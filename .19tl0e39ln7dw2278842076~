@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/13290
+'@type': definedTerm
+hasPart: []
+hid: 1.2.2.2.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10048
+  '@type': definedTerm
+name: Identify implications for key technology aspects
+termCode: '13290'
+
+---

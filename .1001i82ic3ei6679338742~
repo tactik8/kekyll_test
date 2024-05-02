@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/16853
+'@type': definedTerm
+hasPart: []
+hid: 3.2.5.5
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/16848
+  '@type': definedTerm
+name: Identify new media for marketing communication
+termCode: '16853'
+
+---

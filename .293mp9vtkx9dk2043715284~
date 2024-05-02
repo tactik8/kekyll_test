@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/14098
+'@type': definedTerm
+hasPart: []
+hid: 9.11.10
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/17059
+  '@type': definedTerm
+name: Prepare letter of credit
+termCode: '14098'
+
+---

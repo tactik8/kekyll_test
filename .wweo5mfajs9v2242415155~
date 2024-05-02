@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10229
+'@type': definedTerm
+hasPart: []
+hid: 4.1.1.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10221
+  '@type': definedTerm
+name: Define manufacturing goals
+termCode: '10229'
+
+---

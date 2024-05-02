@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11688
+'@type': definedTerm
+hasPart: []
+hid: 6.5.1.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10401
+  '@type': definedTerm
+name: Analyze customer service data and identify improvement opportunities
+termCode: '11688'
+
+---

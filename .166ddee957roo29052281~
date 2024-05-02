@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10665
+'@type': definedTerm
+hasPart: []
+hid: 8.4.4.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10586
+  '@type': definedTerm
+name: Manage retention, revision, and retirement of enterprise information
+termCode: '10665'
+
+---

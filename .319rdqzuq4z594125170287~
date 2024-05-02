@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/16443
+'@type': definedTerm
+hasPart: []
+hid: 11.1.1.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/16439
+  '@type': definedTerm
+name: Coordinate the sharing of risk knowledge across the organization
+termCode: '16443'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/17041
+'@type': definedTerm
+hasPart: []
+hid: 4.1.4.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10224
+  '@type': definedTerm
+name: Maintain master production schedule
+termCode: '17041'
+
+---

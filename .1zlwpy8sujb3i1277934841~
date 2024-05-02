@@ -1,0 +1,28 @@
+---
+'@id': https://www.apqc.org/10590
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10675
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10676
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10677
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10678
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10679
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10680
+  '@type': definedTerm
+hid: 8.5.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10566
+  '@type': definedTerm
+name: Create IT services and solutions
+termCode: '10590'
+
+---

@@ -1,0 +1,22 @@
+---
+'@id': https://www.apqc.org/11010
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/11035
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11036
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11037
+  '@type': definedTerm
+hid: '12.1'
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10012
+  '@type': definedTerm
+name: Build investor relationships
+termCode: '11010'
+
+---

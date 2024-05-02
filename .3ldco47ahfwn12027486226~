@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/19210
+'@type': definedTerm
+hasPart: []
+hid: 10.2.1.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/19209
+  '@type': definedTerm
+name: Define capital investment plan
+termCode: '19210'
+
+---

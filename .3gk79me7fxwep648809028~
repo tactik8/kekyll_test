@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10604
+'@type': definedTerm
+hasPart: []
+hid: 8.1.1.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10570
+  '@type': definedTerm
+name: Identify long-term IT needs of the enterprise in collaboration with stakeholders
+termCode: '10604'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10803
+'@type': definedTerm
+hasPart: []
+hid: 9.2.3.5
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10744
+  '@type': definedTerm
+name: Post AR activity to the general ledger
+termCode: '10803'
+
+---

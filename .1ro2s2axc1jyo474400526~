@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10664
+'@type': definedTerm
+hasPart: []
+hid: 8.4.4.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10586
+  '@type': definedTerm
+name: Manage technical interfaces to users of content
+termCode: '10664'
+
+---

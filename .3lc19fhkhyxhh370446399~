@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10432
+'@type': definedTerm
+hasPart: []
+hid: 7.1.1.6
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/17044
+  '@type': definedTerm
+name: Develop strategy for HR systems/technologies/tools
+termCode: '10432'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/20023
+'@type': definedTerm
+hasPart: []
+hid: 4.1.4.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10224
+  '@type': definedTerm
+name: Model production network to enable simulation and optimization
+termCode: '20023'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11075
+'@type': definedTerm
+hasPart: []
+hid: 13.6.1.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11071
+  '@type': definedTerm
+name: Create enterprise measurement systems model
+termCode: '11075'
+
+---

@@ -1,0 +1,28 @@
+---
+'@id': https://www.apqc.org/17044
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10418
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10419
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10420
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10421
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10422
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10432
+  '@type': definedTerm
+hid: 7.1.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/17043
+  '@type': definedTerm
+name: Develop human resources strategy
+termCode: '17044'
+
+---

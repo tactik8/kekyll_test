@@ -1,0 +1,27 @@
+name: 
+    en: website Name En
+    fr: website Name Fr
+sourceOrganization:
+    name: 
+        en: Organization1En
+        fr: Organization1Fr
+    legalName: 
+        en: Organization1legalEn Ltd
+        fr: Organization1legalFr Ltd
+    address:
+        streetAddress: 111 Main st
+        addressLocality: New-York
+        addressRegion: New-York
+        addressCountry: US
+    phone: 555-222-2223
+    url: https://www.test.com
+    email: test@test.com
+hasPart:
+    - type: WebContent
+      id: id1
+      headline: hero content 1
+      text: Some description to go with hero content
+      image:
+        type: imageObject
+        id: id2
+        contentUrl: /kraken.png

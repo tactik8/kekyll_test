@@ -1,0 +1,28 @@
+---
+'@id': https://www.apqc.org/10473
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10490
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16940
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10491
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10492
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10493
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20125
+  '@type': definedTerm
+hid: 7.3.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20599
+  '@type': definedTerm
+name: Develop and train employees
+termCode: '10473'
+
+---

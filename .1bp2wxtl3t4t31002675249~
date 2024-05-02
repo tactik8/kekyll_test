@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/20081
+'@type': definedTerm
+hasPart: []
+hid: 5.3.3.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20077
+  '@type': definedTerm
+name: Release resources
+termCode: '20081'
+
+---

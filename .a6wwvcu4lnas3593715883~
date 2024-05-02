@@ -1,0 +1,30 @@
+---
+'@id': https://www.apqc.org/10741
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10782
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10783
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10784
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10785
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10786
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10787
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10788
+  '@type': definedTerm
+hid: 9.1.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10728
+  '@type': definedTerm
+name: Evaluate and manage financial performance
+termCode: '10741'
+
+---

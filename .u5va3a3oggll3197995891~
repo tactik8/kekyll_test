@@ -1,0 +1,22 @@
+---
+'@id': https://www.apqc.org/10735
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10762
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10763
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10764
+  '@type': definedTerm
+hid: '9.8'
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/17058
+  '@type': definedTerm
+name: Manage internal controls
+termCode: '10735'
+
+---

@@ -1,0 +1,34 @@
+---
+'@id': https://www.apqc.org/16463
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/16464
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16465
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16466
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16467
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16468
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16469
+  '@type': definedTerm
+- '@id': https://www.apqc.org/19595
+  '@type': definedTerm
+- '@id': https://www.apqc.org/19596
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16470
+  '@type': definedTerm
+hid: 11.2.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/17467
+  '@type': definedTerm
+name: Manage regulatory compliance
+termCode: '16463'
+
+---

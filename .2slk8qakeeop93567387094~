@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/20116
+'@type': definedTerm
+hasPart: []
+hid: 6.4.6
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20110
+  '@type': definedTerm
+name: Manage recall termination
+termCode: '20116'
+
+---

@@ -1,0 +1,30 @@
+---
+'@id': https://www.apqc.org/10338
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10343
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10344
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10345
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10346
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10347
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10348
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16905
+  '@type': definedTerm
+hid: 4.4.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10219
+  '@type': definedTerm
+name: Provide logistics governance
+termCode: '10338'
+
+---

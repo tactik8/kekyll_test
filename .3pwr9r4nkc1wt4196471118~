@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11175
+'@type': definedTerm
+hasPart: []
+hid: 9.1.2.6
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10739
+  '@type': definedTerm
+name: Report on profitability
+termCode: '11175'
+
+---

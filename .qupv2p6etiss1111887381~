@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/16466
+'@type': definedTerm
+hasPart: []
+hid: 11.2.2.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/16463
+  '@type': definedTerm
+name: Monitor the regulatory environment for changing or emerging regulations
+termCode: '16466'
+
+---

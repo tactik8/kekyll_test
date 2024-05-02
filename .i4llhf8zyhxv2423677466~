@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/20103
+'@type': definedTerm
+hasPart: []
+hid: 6.3.1.7
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/12669
+  '@type': definedTerm
+name: Notify originator of approve/reject decision
+termCode: '20103'
+
+---

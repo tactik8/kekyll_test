@@ -1,0 +1,22 @@
+---
+'@id': https://www.apqc.org/11040
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/12879
+  '@type': definedTerm
+- '@id': https://www.apqc.org/12880
+  '@type': definedTerm
+- '@id': https://www.apqc.org/12881
+  '@type': definedTerm
+hid: 12.2.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11011
+  '@type': definedTerm
+name: Manage relations with trade or industry groups
+termCode: '11040'
+
+---

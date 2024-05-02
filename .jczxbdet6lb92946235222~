@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11237
+'@type': definedTerm
+hasPart: []
+hid: 6.5.2.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10402
+  '@type': definedTerm
+name: Analyze customer complaint data and identify improvement opportunities
+termCode: '11237'
+
+---

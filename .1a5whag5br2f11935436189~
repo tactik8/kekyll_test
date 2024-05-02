@@ -1,0 +1,48 @@
+---
+'@id': https://www.apqc.org/11134
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/11138
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11140
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11139
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11141
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11142
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11143
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11144
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11145
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11146
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11147
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20143
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20144
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11148
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11149
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11150
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11151
+  '@type': definedTerm
+hid: 13.4.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11074
+  '@type': definedTerm
+name: Plan for change
+termCode: '11134'
+
+---

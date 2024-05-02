@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/18627
+'@type': definedTerm
+hasPart: []
+hid: 3.2.5.8
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/16848
+  '@type': definedTerm
+name: Define communication guidelines and mechanisms
+termCode: '18627'
+
+---

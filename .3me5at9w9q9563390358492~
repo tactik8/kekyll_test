@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11150
+'@type': definedTerm
+hasPart: []
+hid: 13.4.1.15
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11134
+  '@type': definedTerm
+name: Determine change enablers
+termCode: '11150'
+
+---

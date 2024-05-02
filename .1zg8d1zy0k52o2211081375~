@@ -1,0 +1,30 @@
+---
+'@id': https://www.apqc.org/10745
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10804
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10805
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10806
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10807
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10808
+  '@type': definedTerm
+- '@id': https://www.apqc.org/14007
+  '@type': definedTerm
+- '@id': https://www.apqc.org/14008
+  '@type': definedTerm
+hid: 9.2.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10729
+  '@type': definedTerm
+name: Manage and process collections
+termCode: '10745'
+
+---

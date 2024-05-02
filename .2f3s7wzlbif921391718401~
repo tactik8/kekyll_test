@@ -1,0 +1,17 @@
+---
+'@id': https://www.apqc.org/10654
+'@type': definedTerm
+hasPart: []
+hid: 8.4.1.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10583
+  '@type': definedTerm
+name: Understand information and content management needs and the role of IT services
+  for executing the business strategy
+termCode: '10654'
+
+---

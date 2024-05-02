@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10318
+'@type': definedTerm
+hasPart: []
+hid: 4.3.3.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10369
+  '@type': definedTerm
+name: Calibrate test equipment
+termCode: '10318'
+
+---

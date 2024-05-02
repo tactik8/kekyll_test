@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11044
+'@type': definedTerm
+hasPart: []
+hid: 12.4.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11013
+  '@type': definedTerm
+name: Create ethics policies
+termCode: '11044'
+
+---

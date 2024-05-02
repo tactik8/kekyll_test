@@ -1,0 +1,22 @@
+---
+'@id': https://www.apqc.org/10443
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10463
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10464
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10465
+  '@type': definedTerm
+hid: 7.2.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10410
+  '@type': definedTerm
+name: Manage new hire/re-hire
+termCode: '10443'
+
+---

@@ -1,0 +1,21 @@
+languages:
+    - language: "en" 
+      links:
+        - title: "Home" 
+          url: /
+        - title: "About Us" 
+          url: /en/about_us/
+        - title: "Contacts"
+          url: /en/contact_us/
+        - title: "fr"
+          url: /fr/
+    - language: "fr"
+      links:
+        - title: "Accueil"
+          url: /fr/
+        - title: "À propos de nous"
+          url: /fr/a_propos_de_nous/
+        - title: "Contactez nous"
+          url: /fr/contactez_nous/
+        - title: "en"
+          url: /

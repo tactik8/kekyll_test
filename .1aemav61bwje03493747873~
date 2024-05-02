@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11789
+'@type': definedTerm
+hasPart: []
+hid: 3.5.3.10
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11779
+  '@type': definedTerm
+name: Conduct profitability analysis
+termCode: '11789'
+
+---

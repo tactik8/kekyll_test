@@ -1,0 +1,20 @@
+---
+'@id': https://www.apqc.org/10573
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10620
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10621
+  '@type': definedTerm
+hid: 8.1.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10563
+  '@type': definedTerm
+name: Perform IT research and innovation
+termCode: '10573'
+
+---

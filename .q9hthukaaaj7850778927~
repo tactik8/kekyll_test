@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10894
+'@type': definedTerm
+hasPart: []
+hid: 9.7.2.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10759
+  '@type': definedTerm
+name: Manage cash equivalents
+termCode: '10894'
+
+---

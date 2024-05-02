@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10615
+'@type': definedTerm
+hasPart: []
+hid: 8.1.2.5
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10571
+  '@type': definedTerm
+name: Govern the enterprise architecture
+termCode: '10615'
+
+---

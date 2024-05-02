@@ -1,0 +1,30 @@
+---
+'@id': https://www.apqc.org/16413
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/11123
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20142
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11124
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11125
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11127
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11128
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11129
+  '@type': definedTerm
+hid: 13.2.3.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/16410
+  '@type': definedTerm
+name: Develop project plans
+termCode: '16413'
+
+---

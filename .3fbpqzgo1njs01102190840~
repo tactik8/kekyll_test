@@ -1,0 +1,30 @@
+---
+'@id': https://www.apqc.org/10413
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10512
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10513
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10514
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10515
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10516
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20132
+  '@type': definedTerm
+- '@id': https://www.apqc.org/17055
+  '@type': definedTerm
+hid: '7.6'
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10007
+  '@type': definedTerm
+name: Redeploy and retire employees
+termCode: '10413'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/14209
+'@type': definedTerm
+hasPart: []
+hid: 3.5.5.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10187
+  '@type': definedTerm
+name: Manage sales partner/alliance master data
+termCode: '14209'
+
+---

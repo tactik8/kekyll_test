@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11114
+'@type': definedTerm
+hasPart: []
+hid: 13.5.2.5
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11096
+  '@type': definedTerm
+name: Develop new KM approaches
+termCode: '11114'
+
+---

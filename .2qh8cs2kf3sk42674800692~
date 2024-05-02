@@ -1,0 +1,26 @@
+---
+'@id': https://www.apqc.org/10563
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10570
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10571
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10572
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10573
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10575
+  '@type': definedTerm
+hid: '8.1'
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10008
+  '@type': definedTerm
+name: Manage the business of information technology
+termCode: '10563'
+
+---

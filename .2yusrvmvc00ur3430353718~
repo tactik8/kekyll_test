@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/14188
+'@type': definedTerm
+hasPart: []
+hid: 9.2.1.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10742
+  '@type': definedTerm
+name: Forecast credit scoring requirement
+termCode: '14188'
+
+---

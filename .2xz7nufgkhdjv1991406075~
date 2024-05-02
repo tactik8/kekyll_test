@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/20080
+'@type': definedTerm
+hasPart: []
+hid: 5.3.3.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20077
+  '@type': definedTerm
+name: Confirm delivery according to contract terms
+termCode: '20080'
+
+---

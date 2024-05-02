@@ -1,0 +1,24 @@
+---
+'@id': https://www.apqc.org/10278
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10288
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10289
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10290
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10291
+  '@type': definedTerm
+hid: 4.2.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10216
+  '@type': definedTerm
+name: Select suppliers and develop/maintain contracts
+termCode: '10278'
+
+---

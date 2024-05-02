@@ -1,0 +1,50 @@
+
+
+<div>
+
+
+
+
+
+    {% assign d = site.apqc | find: "termCode", include.termCode %}
+
+    
+
+
+    
+
+    <details>
+    
+        <summary>
+        
+        <a href="{{ site.baseurl }}{{ d.url }}">{{ d.hid }} {{ d.name }} ({{ d.termCode }})</a>
+        
+        
+        </summary>
+
+
+        <ul>
+
+
+            {% for dd in d.hasPart  %}
+                <li>
+                    {% include element.html termCode=dd.termCode %}
+
+                </li>
+              {% endfor %}
+
+            
+        </ul>
+
+
+        
+           
+        
+    </details>
+    
+
+
+
+    
+    
+</div>

@@ -1,0 +1,30 @@
+---
+'@id': https://www.apqc.org/20032
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/20033
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20034
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20035
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20036
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20037
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20038
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20039
+  '@type': definedTerm
+hid: 5.1.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20026
+  '@type': definedTerm
+name: Develop service delivery strategies
+termCode: '20032'
+
+---

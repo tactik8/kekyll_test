@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10099
+'@type': definedTerm
+hasPart: []
+hid: 2.3.3.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/19997
+  '@type': definedTerm
+name: Design and obtain necessary capabilities/materials and equipment
+termCode: '10099'
+
+---

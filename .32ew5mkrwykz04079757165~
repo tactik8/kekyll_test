@@ -1,0 +1,24 @@
+---
+'@id': https://www.apqc.org/10495
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10504
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10505
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10506
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10507
+  '@type': definedTerm
+hid: 7.5.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10412
+  '@type': definedTerm
+name: Manage and administer benefits
+termCode: '10495'
+
+---

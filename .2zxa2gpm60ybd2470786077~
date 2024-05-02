@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10704
+'@type': definedTerm
+hasPart: []
+hid: 8.7.3.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10597
+  '@type': definedTerm
+name: Manage IT inventory and assets
+termCode: '10704'
+
+---

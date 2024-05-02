@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/19220
+'@type': definedTerm
+hasPart: []
+hid: 10.2.2.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20139
+  '@type': definedTerm
+name: Develop construction strategy
+termCode: '19220'
+
+---

@@ -1,0 +1,26 @@
+---
+'@id': https://www.apqc.org/10369
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10318
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10374
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10375
+  '@type': definedTerm
+- '@id': https://www.apqc.org/12045
+  '@type': definedTerm
+- '@id': https://www.apqc.org/12046
+  '@type': definedTerm
+hid: 4.3.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10217
+  '@type': definedTerm
+name: Perform quality testing
+termCode: '10369'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/19225
+'@type': definedTerm
+hasPart: []
+hid: 10.2.4.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/19224
+  '@type': definedTerm
+name: Monitor work performance
+termCode: '19225'
+
+---

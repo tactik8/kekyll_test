@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10697
+'@type': definedTerm
+hasPart: []
+hid: 8.6.3.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10594
+  '@type': definedTerm
+name: Distribute and install release
+termCode: '10697'
+
+---

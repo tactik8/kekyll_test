@@ -1,0 +1,32 @@
+---
+'@id': https://www.apqc.org/10750
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10837
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10838
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10839
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10840
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10841
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10842
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10843
+  '@type': definedTerm
+- '@id': https://www.apqc.org/14074
+  '@type': definedTerm
+hid: 9.3.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10730
+  '@type': definedTerm
+name: Perform financial reporting
+termCode: '10750'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10328
+'@type': definedTerm
+hasPart: []
+hid: 6.3.3.1.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10321
+  '@type': definedTerm
+name: Create service order fulfillment schedule
+termCode: '10328'
+
+---

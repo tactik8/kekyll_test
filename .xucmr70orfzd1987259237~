@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/20007
+'@type': definedTerm
+hasPart: []
+hid: 3.2.6.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/18924
+  '@type': definedTerm
+name: Define customer loyalty program
+termCode: '20007'
+
+---

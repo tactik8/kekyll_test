@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/19221
+'@type': definedTerm
+hasPart: []
+hid: 10.2.2.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20139
+  '@type': definedTerm
+name: Obtain construction permissions
+termCode: '19221'
+
+---

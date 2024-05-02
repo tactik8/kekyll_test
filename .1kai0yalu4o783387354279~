@@ -1,0 +1,26 @@
+---
+'@id': https://www.apqc.org/11216
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/11221
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11222
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11223
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11224
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16471
+  '@type': definedTerm
+hid: '11.4'
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/16437
+  '@type': definedTerm
+name: Manage business resiliency
+termCode: '11216'
+
+---

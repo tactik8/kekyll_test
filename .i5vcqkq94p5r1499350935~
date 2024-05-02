@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11213
+'@type': definedTerm
+hasPart: []
+hid: 9.7.5.5.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20137
+  '@type': definedTerm
+name: Evaluate and refine hedging positions
+termCode: '11213'
+
+---

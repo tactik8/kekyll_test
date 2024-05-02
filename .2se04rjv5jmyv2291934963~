@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10208
+'@type': definedTerm
+hasPart: []
+hid: 3.5.4.2.8
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10195
+  '@type': definedTerm
+name: Terminate involved party information
+termCode: '10208'
+
+---

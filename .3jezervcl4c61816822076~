@@ -1,0 +1,26 @@
+---
+'@id': https://www.apqc.org/10379
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10387
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10388
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10389
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20094
+  '@type': definedTerm
+- '@id': https://www.apqc.org/12840
+  '@type': definedTerm
+hid: '6.2'
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20085
+  '@type': definedTerm
+name: Plan and manage customer service contacts
+termCode: '10379'
+
+---

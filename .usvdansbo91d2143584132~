@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11100
+'@type': definedTerm
+hasPart: []
+hid: 13.5.1.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11095
+  '@type': definedTerm
+name: Develop governance model
+termCode: '11100'
+
+---

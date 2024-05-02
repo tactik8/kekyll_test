@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/16822
+'@type': definedTerm
+hasPart: []
+hid: 2.3.1.8.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/19995
+  '@type': definedTerm
+name: Review product troubleshooting methodology
+termCode: '16822'
+
+---

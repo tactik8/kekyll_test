@@ -1,0 +1,26 @@
+---
+'@id': https://www.apqc.org/10339
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10349
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10350
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10351
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10352
+  '@type': definedTerm
+- '@id': https://www.apqc.org/12708
+  '@type': definedTerm
+hid: 4.4.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10219
+  '@type': definedTerm
+name: Plan and manage inbound material flow
+termCode: '10339'
+
+---

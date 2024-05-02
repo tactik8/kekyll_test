@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/19251
+'@type': definedTerm
+hasPart: []
+hid: 10.3.2.6
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/19245
+  '@type': definedTerm
+name: Define maintenance performance targets
+termCode: '19251'
+
+---

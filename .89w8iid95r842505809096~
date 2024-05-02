@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10891
+'@type': definedTerm
+hasPart: []
+hid: 9.7.1.7
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10758
+  '@type': definedTerm
+name: Develop and confirm internal controls for treasury
+termCode: '10891'
+
+---

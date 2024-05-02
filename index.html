@@ -1,0 +1,17 @@
+---
+title: My Blog
+lang: en
+---
+
+<h1>{{ "Hello World!" | downcase }}</h1>
+
+
+lang:
+{{ page.lang }}
+
+{% for part in site.data.website.hasPart %}
+
+    {% include hero.html record=part %}
+
+
+{% endfor %}

@@ -1,0 +1,24 @@
+---
+'@id': https://www.apqc.org/20085
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10378
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10379
+  '@type': definedTerm
+- '@id': https://www.apqc.org/12658
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20110
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20595
+  '@type': definedTerm
+hid: '6'
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf: null
+name: Manage Customer Service
+termCode: '20085'
+
+---

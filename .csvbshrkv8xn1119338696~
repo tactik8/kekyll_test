@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11170
+'@type': definedTerm
+hasPart: []
+hid: 3.2.1.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11168
+  '@type': definedTerm
+name: Develop value proposition including brand positioning for target segments
+termCode: '11170'
+
+---

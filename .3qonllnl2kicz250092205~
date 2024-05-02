@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11196
+'@type': definedTerm
+hasPart: []
+hid: 13.7.4.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11183
+  '@type': definedTerm
+name: Implement emergency response program
+termCode: '11196'
+
+---

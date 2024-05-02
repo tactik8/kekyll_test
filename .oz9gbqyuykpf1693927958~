@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/16402
+'@type': definedTerm
+hasPart: []
+hid: 13.2.1.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/16401
+  '@type': definedTerm
+name: Establish portfolio strategy
+termCode: '16402'
+
+---

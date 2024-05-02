@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10843
+'@type': definedTerm
+hasPart: []
+hid: 9.3.4.7
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10750
+  '@type': definedTerm
+name: Produce regulatory reports
+termCode: '10843'
+
+---

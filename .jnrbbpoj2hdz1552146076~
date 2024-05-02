@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10427
+'@type': definedTerm
+hasPart: []
+hid: 7.1.2.6
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/17045
+  '@type': definedTerm
+name: Develop employee diversity plan
+termCode: '10427'
+
+---

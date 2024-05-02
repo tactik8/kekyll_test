@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/20091
+'@type': definedTerm
+hasPart: []
+hid: 6.1.6.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20089
+  '@type': definedTerm
+name: Define warranty related offerings for customers
+termCode: '20091'
+
+---

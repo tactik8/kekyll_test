@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10522
+'@type': definedTerm
+hasPart: []
+hid: 7.7.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20134
+  '@type': definedTerm
+name: Manage reporting processes
+termCode: '10522'
+
+---

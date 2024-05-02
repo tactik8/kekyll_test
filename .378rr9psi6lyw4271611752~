@@ -1,0 +1,24 @@
+---
+'@id': https://www.apqc.org/20123
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10456
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10457
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10458
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10459
+  '@type': definedTerm
+hid: 7.2.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10410
+  '@type': definedTerm
+name: Screen and select candidates
+termCode: '20123'
+
+---

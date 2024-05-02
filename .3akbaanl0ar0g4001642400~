@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10239
+'@type': definedTerm
+hasPart: []
+hid: 4.1.2.5
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10222
+  '@type': definedTerm
+name: Monitor activity against demand forecast and revise forecast
+termCode: '10239'
+
+---

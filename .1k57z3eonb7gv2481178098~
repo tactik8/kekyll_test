@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10927
+'@type': definedTerm
+hasPart: []
+hid: 9.9.1.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10765
+  '@type': definedTerm
+name: Develop foreign, national, state, and local tax strategy
+termCode: '10927'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10640
+'@type': definedTerm
+hasPart: []
+hid: 8.2.2.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10579
+  '@type': definedTerm
+name: Create and maintain the IT services and solutions catalog
+termCode: '10640'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10259
+'@type': definedTerm
+hasPart: []
+hid: 4.1.5.8
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/17042
+  '@type': definedTerm
+name: Manage dispatch plan attainment
+termCode: '10259'
+
+---

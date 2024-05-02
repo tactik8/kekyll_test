@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/19250
+'@type': definedTerm
+hasPart: []
+hid: 10.3.2.5
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/19245
+  '@type': definedTerm
+name: Manage maintenance work safety
+termCode: '19250'
+
+---

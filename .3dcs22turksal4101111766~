@@ -1,0 +1,26 @@
+---
+'@id': https://www.apqc.org/10591
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10681
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10682
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10683
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10684
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10685
+  '@type': definedTerm
+hid: 8.5.5
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10566
+  '@type': definedTerm
+name: Maintain IT services and solutions
+termCode: '10591'
+
+---

@@ -1,0 +1,22 @@
+---
+'@id': https://www.apqc.org/20022
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10215
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10216
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10217
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10219
+  '@type': definedTerm
+hid: '4'
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf: null
+name: Deliver Physical Products
+termCode: '20022'
+
+---

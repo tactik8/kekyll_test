@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10836
+'@type': definedTerm
+hasPart: []
+hid: 9.3.3.9
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10749
+  '@type': definedTerm
+name: Provide fixed-asset data to support tax, statutory, and regulatory reporting
+termCode: '10836'
+
+---

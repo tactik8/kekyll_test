@@ -1,0 +1,28 @@
+---
+'@id': https://www.apqc.org/10734
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10758
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10759
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10760
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10761
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11208
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16958
+  '@type': definedTerm
+hid: '9.7'
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/17058
+  '@type': definedTerm
+name: Manage treasury operations
+termCode: '10734'
+
+---

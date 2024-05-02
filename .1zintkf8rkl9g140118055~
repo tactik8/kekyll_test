@@ -1,0 +1,44 @@
+---
+'@id': https://www.apqc.org/17045
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10423
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10424
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10425
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10426
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16938
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10427
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11622
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11623
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10428
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10429
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10430
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10431
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10433
+  '@type': definedTerm
+- '@id': https://www.apqc.org/20122
+  '@type': definedTerm
+hid: 7.1.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/17043
+  '@type': definedTerm
+name: Develop and implement workforce strategy and policies
+termCode: '17045'
+
+---

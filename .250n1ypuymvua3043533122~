@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/16890
+'@type': definedTerm
+hasPart: []
+hid: 6.1.6.2
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/20089
+  '@type': definedTerm
+name: Create and manage warranty rules/claim codes for products
+termCode: '16890'
+
+---

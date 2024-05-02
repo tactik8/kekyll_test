@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10661
+'@type': definedTerm
+hasPart: []
+hid: 8.4.3.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10585
+  '@type': definedTerm
+name: Define the enterprise information/data policies and standards
+termCode: '10661'
+
+---

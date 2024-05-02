@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11110
+'@type': definedTerm
+hasPart: []
+hid: 13.5.2.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11096
+  '@type': definedTerm
+name: Assess maturity of existing KM initiatives
+termCode: '11110'
+
+---

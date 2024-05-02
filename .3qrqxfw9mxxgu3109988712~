@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10833
+'@type': definedTerm
+hasPart: []
+hid: 9.3.3.6
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10749
+  '@type': definedTerm
+name: Calculate and record depreciation expense
+termCode: '10833'
+
+---

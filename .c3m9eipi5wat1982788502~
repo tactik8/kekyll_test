@@ -1,0 +1,26 @@
+---
+'@id': https://www.apqc.org/20006
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/16573
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16574
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16575
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16500
+  '@type': definedTerm
+- '@id': https://www.apqc.org/16501
+  '@type': definedTerm
+hid: 3.2.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10102
+  '@type': definedTerm
+name: Analyze and manage channel performance
+termCode: '20006'
+
+---

@@ -1,0 +1,22 @@
+---
+'@id': https://www.apqc.org/10368
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/10371
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10372
+  '@type': definedTerm
+- '@id': https://www.apqc.org/10373
+  '@type': definedTerm
+hid: 4.1.8
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10215
+  '@type': definedTerm
+name: Develop quality standards and procedures
+termCode: '10368'
+
+---

@@ -1,0 +1,22 @@
+---
+'@id': https://www.apqc.org/16437
+'@type': definedTerm
+hasPart:
+- '@id': https://www.apqc.org/17060
+  '@type': definedTerm
+- '@id': https://www.apqc.org/17467
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11185
+  '@type': definedTerm
+- '@id': https://www.apqc.org/11216
+  '@type': definedTerm
+hid: '11'
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf: null
+name: Manage Enterprise Risk, Compliance, Remediation, and Resiliency
+termCode: '16437'
+
+---

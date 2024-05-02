@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10089
+'@type': definedTerm
+hasPart: []
+hid: 2.3.1.11
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/19993
+  '@type': definedTerm
+name: Eliminate quality and reliability problems
+termCode: '10089'
+
+---

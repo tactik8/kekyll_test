@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/14189
+'@type': definedTerm
+hasPart: []
+hid: 1.2.2.8
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10038
+  '@type': definedTerm
+name: Develop sustainability strategy
+termCode: '14189'
+
+---

@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/11141
+'@type': definedTerm
+hasPart: []
+hid: 13.4.1.4
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/11134
+  '@type': definedTerm
+name: Identify change champion(s)
+termCode: '11141'
+
+---

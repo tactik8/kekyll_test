@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10319
+'@type': definedTerm
+hasPart: []
+hid: 4.3.2.3
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10304
+  '@type': definedTerm
+name: Report maintenance issues
+termCode: '10319'
+
+---

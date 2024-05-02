@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10532
+'@type': definedTerm
+hasPart: []
+hid: '7.9'
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10007
+  '@type': definedTerm
+name: Deliver employee communications
+termCode: '10532'
+
+---

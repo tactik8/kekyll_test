@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10827
+'@type': definedTerm
+hasPart: []
+hid: 9.3.2.9
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10748
+  '@type': definedTerm
+name: Prepare and post management adjustments
+termCode: '10827'
+
+---

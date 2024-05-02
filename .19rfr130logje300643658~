@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10782
+'@type': definedTerm
+hasPart: []
+hid: 9.1.4.1
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10741
+  '@type': definedTerm
+name: Assess customer and product profitability
+termCode: '10782'
+
+---

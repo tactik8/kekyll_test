@@ -1,0 +1,16 @@
+---
+'@id': https://www.apqc.org/10209
+'@type': definedTerm
+hasPart: []
+hid: 3.5.1.7
+inDefinedTermSet:
+  '@type': definedTermSet
+  name: APQC
+  url: https://www.apqc.org/
+isPartOf:
+  '@id': https://www.apqc.org/10182
+  '@type': definedTerm
+name: Determine sales resource allocation
+termCode: '10209'
+
+---
