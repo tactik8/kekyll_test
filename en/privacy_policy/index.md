@@ -52,25 +52,25 @@ We collect PI about you for a variety of purposes that we have previously identi
 
 In general, and without limitation, we collect PI for the following purposes:
 
-1)     Provide access to our web and mobile platforms
+- Provide access to our web and mobile platforms
 
-2)     Manage the web platforms, identify trends and draw statistics relating to their use, evaluate their performance and improve our services
+- Manage the web platforms, identify trends and draw statistics relating to their use, evaluate their performance and improve our services
 
-3)     Establish and maintain business relationships with our customers
+- Establish and maintain business relationships with our customers
 
-4)     Deliver, invoice, collect payment for orders, and follow up on orders, requests for quotes and similar requests
+- Deliver, invoice, collect payment for orders, and follow up on orders, requests for quotes and similar requests
 
-5)     Get to know our customers better to provide them with relevant products and services, in particular through targeted advertising and surveys, and optimize our operations
+- Get to know our customers better to provide them with relevant products and services, in particular through targeted advertising and surveys, and optimize our operations
 
-6)     Provide you with relevant information via our web platforms and communications based on your preferences and purchasing and shopping habits
+- Provide you with relevant information via our web platforms and communications based on your preferences and purchasing and shopping habits
 
-7)     Enable you to access the financing services of our partners
+- Enable you to access the financing services of our partners
 
-8)     Consider your application if you apply for a job with us via our Careers section
+- Consider your application if you apply for a job with us via our Careers section
 
-9)     Respond to communications sent to us
+- Respond to communications sent to us
 
-10)     Confirm your identity, verify the accuracy of your PI and update it
+- Confirm your identity, verify the accuracy of your PI and update it
 
 
 
@@ -85,19 +85,20 @@ You may withdraw your consent to the use and disclosure of your PI for purposes 
 
 ## How we collect your Personal Information
 
-a) From you
+### From you
 Most of the PI we collect is information that you provide directly to us when you:
 
-Make a purchase online or in store
-Create a customer account online or in store (Customer Login)
-Contact us
-Take part in our surveys
-Subscribe to our communications
-Apply for a job online
-b) From third parties
+- Make a purchase online or in store
+- Create a customer account online or in store (Customer Login)
+- Contact us
+- Take part in our surveys
+- Subscribe to our communications
+- Apply for a job online
+
+### From third parties
 {{ site.data.website.sourceOrganization.name.en }} may also collect PI about you from third parties, but only with your consent or as permitted by law.
 
-c) Through our web platforms
+### Through our web platforms
 {{ site.data.website.sourceOrganization.name.en }} and its business partners may also collect other information related to your use of our web platforms, including your customer account, using cookies and web beacons. We use this information to learn about how you interact with our web platforms, improve our web platforms and product and service offerings, better understand your interests, and display advertisements that are relevant to you. Where necessary, {{ site.data.website.sourceOrganization.name.en }} will obtain your consent before collecting such information.
 
 
@@ -141,23 +142,27 @@ We use a number of security measures to adequately protect your PI and minimize 
 ## Your rights and how to exercise them
 {{ site.data.website.sourceOrganization.name.en }} respects your legal rights with regard to your PI and has set up procedures to deal with the following requests:
 
-a) Access and rectification: You have the right to access the PI that we have collected about you, check its accuracy, make any necessary changes and request a copy of it, subject to the exceptions provided by law. You can also modify some PI directly in your customer account on our web platforms.
+### Access and rectification: 
+You have the right to access the PI that we have collected about you, check its accuracy, make any necessary changes and request a copy of it, subject to the exceptions provided by law. You can also modify some PI directly in your customer account on our web platforms.
 
-b) Withdrawal of consent: In certain circumstances, you also have the right to withdraw your consent to the use of your PI for purposes that are not essential to the provision of our products and services, including the provision of targeted advertising and surveys. If you choose to withdraw your consent to such use, this will generally result in the termination of your contractual relationship with us.
+### Withdrawal of consent
+In certain circumstances, you also have the right to withdraw your consent to the use of your PI for purposes that are not essential to the provision of our products and services, including the provision of targeted advertising and surveys. If you choose to withdraw your consent to such use, this will generally result in the termination of your contractual relationship with us.
 
-c) Portability (effective September 2024): You have the right to request that some of your PI be made available to you or another data controller in a structured, commonly used and readable format.
+### Portability (effective September 2024)
+You have the right to request that some of your PI be made available to you or another data controller in a structured, commonly used and readable format.
 
-d) Questions and complaints: You may find that our Privacy Commitment does not answer your questions in sufficient detail. If this is the case, please contact the PCPPI as soon as possible. The contact details of the PCPPI are provided in Section 3. Similarly, any complaint about non-compliance with the principles set out in this Commitment should be made to the
+### Questions and complaints 
+You may find that our Privacy Commitment does not answer your questions in sufficient detail. If this is the case, please contact the PCPPI as soon as possible. The contact details of the PCPPI are provided in Section 3. Similarly, any complaint about non-compliance with the principles set out in this Commitment should be made to the
 
 Any enquiry relating to this section should be addressed to the PCPPI. {{ site.data.website.sourceOrganization.name.en }} will respond to such requests within 30 days of receipt. If {{ site.data.website.sourceOrganization.name.en }} is unable to meet this deadline or needs additional time to respond to a request, it will notify the Data Subject in writing.
 
 
 
 ## Commitment updates
-a) Applicable version
+### Applicable version
 
 This Commitment is effective as of the date set forth above and supersedes all prior versions. {{ site.data.website.sourceOrganization.name.en }}’s collection, use, disclosure and other handling of a Data Subject’s PI will be governed by the version of the Commitment in effect at that time.
 
-b) Changes to the Commitment
+### Changes to the Commitment
 
 {{ site.data.website.sourceOrganization.name.en }} may modify this Commitment from time to time at its sole discretion. If the Commitment is amended, you will be notified of the changes by a notice posted on the home page of our web platforms and in our communication tools for a specified period of time.

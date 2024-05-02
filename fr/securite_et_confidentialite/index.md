@@ -49,16 +49,16 @@ Nous collectons des RP vous concernant à des fins diverses que nous avons préa
 
 De manière générale et sans s’y limiter, nous collectons des RP aux fins suivantes :
 
-Fournir un accès à nos plateformes Web et mobiles;
-Gérer les plateformes Web, établir des tendances et des statistiques relatives à son utilisation, évaluer sa performance et améliorer nos services;
-Établir et maintenir des relations d’affaires avec nos clients;
-Livrer, facturer et percevoir le paiement des commandes et faire le suivi des commandes, des demandes de soumission, des demandes d’estimation ou autres demandes similaires;
-Mieux connaître notre clientèle afin de lui proposer des produits et des services pertinents, notamment par la publicité ciblée et les sondages, et, de façon générale, afin d’optimiser nos opérations;
-Fournir de l’information pertinente par le biais de nos plateformes Web et de nos communications, notamment en fonction de vos préférences et vos habitudes d’achat et de magasinage;
-Vous permettre d’utiliser les services de financement de nos partenaires;
-Étudier votre candidature lorsque vous postulez pour un emploi chez nous via notre section « Carrières »;
-Répondre aux communications qui nous sont acheminées;
-Confirmer votre identité, vérifier l’exactitude de vos RP et les mettre à jour.
+- Fournir un accès à nos plateformes Web et mobiles;
+- Gérer les plateformes Web, établir des tendances et des statistiques relatives à son utilisation, évaluer sa performance et améliorer nos services;
+- Établir et maintenir des relations d’affaires avec nos clients;
+- Livrer, facturer et percevoir le paiement des commandes et faire le suivi des commandes, des demandes de soumission, des demandes d’estimation ou autres demandes similaires;
+- Mieux connaître notre clientèle afin de lui proposer des produits et des services pertinents, notamment par la publicité ciblée et les sondages, et, de façon générale, afin d’optimiser nos opérations;
+- Fournir de l’information pertinente par le biais de nos plateformes Web et de nos communications, notamment en fonction de vos préférences et vos habitudes d’achat et de magasinage;
+- Vous permettre d’utiliser les services de financement de nos partenaires;
+- Étudier votre candidature lorsque vous postulez pour un emploi chez nous via notre section « Carrières »;
+- Répondre aux communications qui nous sont acheminées;
+- Confirmer votre identité, vérifier l’exactitude de vos RP et les mettre à jour.
 
 
 ## Consentement à la collecte, à l’utilisation et à la communication de vos renseignements personnels
@@ -71,19 +71,20 @@ Il est possible de retirer votre consentement à l’utilisation et à la commun
 
 
 ## Méthodes de collecte de vos renseignements personnels
-a) Directement auprès de vous
+### Directement auprès de vous
 La plupart des RP que nous collectons sont ceux que vous nous fournissez directement, notamment lorsque vous :
 
-procédez à un achat en ligne ou en magasin;
-créez un compte client en magasin ou en ligne (« Accès client »);
-communiquez avec nous;
-répondez à nos sondages;
-vous abonnez à nos communications;
-déposez votre candidature en ligne pour un emploi.
-b) Auprès de tiers
+- procédez à un achat en ligne ou en magasin;
+- créez un compte client en magasin ou en ligne (« Accès client »);
+- communiquez avec nous;
+- répondez à nos sondages;
+- vous abonnez à nos communications;
+- déposez votre candidature en ligne pour un emploi.
+
+### Auprès de tiers
 {{ site.data.website.sourceOrganization.name.fr }} peut également recueillir des RP vous concernant auprès de tiers, mais uniquement avec votre consentement ou si la loi l’autorise.
 
-c) Par l’entremise de nos plateformes Web
+### Par l’entremise de nos plateformes Web
 {{ site.data.website.sourceOrganization.name.fr }} et ses partenaires d’affaires peuvent également recueillir d’autres renseignements relativement à votre utilisation de nos plateformes Web, incluant votre compte client, au moyen, par exemple, de fichiers témoins (« cookies ») ou de pixels transparents. Ces renseignements servent à comprendre vos interactions avec nos plateformes Web, à améliorer ces outils et notre offre de produits et de services, à mieux connaître vos intérêts et à vous proposer de la publicité qui vous soit pertinente. Lorsque requis, {{ site.data.website.sourceOrganization.name.fr }} sollicitera votre consentement avant de collecter ces renseignements.
 
 
@@ -93,18 +94,16 @@ Les RP sont accessibles aux employés de {{ site.data.website.sourceOrganization
 
 Les RP collectés peuvent être communiqués à :
 
-des fournisseurs dans le cadre de l’exécution de contrats de services, tels que les fournisseurs de services publicitaires, de services de paiement et de financement et de solutions technologiques;
-des tribunaux, des autorités de réglementation, des fonctionnaires ou des avocats, ou toute autre partie chargée de mener des enquêtes ou d’appliquer la loi (notamment pour faire valoir ou défendre nos droits et aux fins du recouvrement de créances).
+- des fournisseurs dans le cadre de l’exécution de contrats de services, tels que les fournisseurs de services publicitaires, de services de paiement et de financement et de solutions technologiques;
+- des tribunaux, des autorités de réglementation, des fonctionnaires ou des avocats, ou toute autre partie chargée de mener des enquêtes ou d’appliquer la loi (notamment pour faire valoir ou défendre nos droits et aux fins du recouvrement de créances).
+- 
 Nous nous assurons de ne communiquer que les RP nécessaires dans chaque cas. Toute communication aux fournisseurs est encadrée au moyen d’un contrat prévoyant notamment la mise en place de mesures de sécurité et la destruction des données une fois la prestation de services effectuée. Nous ne vendons ni ne louons vos RP.
-
 
 
 ## Limitation de la conservation de vos renseignements personnels
 Nous ne conservons vos RP que pour la durée raisonnable nécessaire à l’atteinte des finalités pour lesquelles ils ont été collectés, y compris pour répondre aux exigences légales, comptables et de divulgation ainsi que pour faire valoir ou défendre nos droits. Par exemple, nous ne conservons pas votre préférence de magasin après vous avoir informé du magasin le plus proche lorsque vous utilisez notre application; cette information est enregistrée dans un fichier témoin (« cookie ») sur votre appareil.
 
 De façon générale, vos RP sont conservés au Canada, où nos plateformes Web sont hébergées. Il est toutefois possible que des partenaires d’affaires auxquels nous communiquons des RP les conservent dans d’autres pays, auquel cas, {{ site.data.website.sourceOrganization.name.fr }} consultera les lois et les pratiques de protection des RP applicables dans le pays visé et s’assurera d’offrir une protection adéquate de vos RP.
-
-
 
 ## Messages électroniques commerciaux
 Nous respectons la Loi canadienne anti-pourriel dans nos communications électroniques commerciales – qu’elles aient lieu par courriel, par message texte ou sur les médias sociaux.
@@ -136,11 +135,11 @@ Toute demande en lien avec la présente section doit être transmise au RPRP aux
 
 
 ## Mise à jour et révision
-a) Version applicable.
+### Version applicable.
 
 Le présent Engagement prend effet à la date susmentionnée et remplace toutes les versions antérieures. La collecte, l’utilisation, la divulgation et tout autre traitement des RP d’une Personne concernée par {{ site.data.website.sourceOrganization.name.fr }} seront régis par la version de l’Engagement en vigueur à ce moment‑là.
 
-b) Modifications à l’Engagement.
+### Modifications à l’Engagement.
 
 {{ site.data.website.sourceOrganization.name.fr }} peut apporter des modifications au présent Engagement de temps à autre, à son entière discrétion. Le cas échéant, les modifications seront portées à votre connaissance par un avis publié sur la page d’accueil de nos plateformes Web et dans nos outils de communication pendant une certaine période.
 
