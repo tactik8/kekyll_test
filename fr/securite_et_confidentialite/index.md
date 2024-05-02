@@ -3,24 +3,24 @@ title: My Blog
 lang: fr
 ---
 
-Engagement en matière de vie privée
+# Engagement en matière de vie privée
 En date du 22 août 2023
 
 
 
-1. Préambule et objectifs
+## Préambule et objectifs
 Le respect de votre vie privée est important pour {{ site.data.website.sourceOrganization.name.fr }} inc. et ses sociétés affiliées (« {{ site.data.website.sourceOrganization.name.fr }} », « nous » ou « notre »). C’est pourquoi nous mettons en place des pratiques raisonnables et transparentes en la matière. Le présent Engagement en matière de vie privée (l’« Engagement ») a pour objectif de vous informer de ces pratiques.
 
 Cet engagement décrit l’ensemble de nos pratiques en matière de protection des renseignements personnels, conformément aux lois applicables, visant à protéger les renseignements personnels (« RP ») que nous collectons et traitons dans le cadre de nos activités et du maintien de nos relations commerciales. Il s’applique à l’ensemble de vos interactions avec {{ site.data.website.sourceOrganization.name.fr }}.
 
-2. Définitions
+## Définitions
 « Personne concernée » ou « vous » signifie toute personne identifiée ou identifiable au sujet de laquelle {{ site.data.website.sourceOrganization.name.fr }} recueille des Renseignements personnels. Cet Engagement ne s’applique pas aux employés et autres membres du personnel de {{ site.data.website.sourceOrganization.name.fr }}.
 
 « Renseignements personnels » ou « RP » signifient tout renseignement qui concerne une personne physique et permet, directement ou indirectement, de l’identifier.
 
 
 
-3. Responsable de la protection des renseignements personnels
+## Responsable de la protection des renseignements personnels
 {{ site.data.website.sourceOrganization.name.fr }} a désigné un Responsable de la protection des renseignements personnels (« RPRP »), qui est chargé de veiller à ce que le personnel connaisse bien ses responsabilités en la matière et de développer des pratiques commerciales conformes aux lois applicables sur la protection de la vie privée.
 
 Vous pouvez rejoindre notre RPRP aux coordonnées suivantes :
@@ -39,12 +39,12 @@ Responsable de la protection des renseignements personnels
 
 
 
-4. Renseignements personnels collectés par {{ site.data.website.sourceOrganization.name.fr }}
+## Renseignements personnels collectés par {{ site.data.website.sourceOrganization.name.fr }}
 {{ site.data.website.sourceOrganization.name.fr }} s’assure de collecter uniquement les RP qui sont nécessaires pour ses activités, incluant les renseignements relatifs à votre identité, tels que votre nom, votre adresse, votre courriel, votre numéro de téléphone et vos informations de paiement, ainsi que les informations relatives à l’utilisation de ses plateformes Web.
 
 
 
-5. Finalités de la collecte de renseignements personnels
+## Finalités de la collecte de renseignements personnels
 Nous collectons des RP vous concernant à des fins diverses que nous avons préalablement déterminées, auxquelles vous avez consenti ou qui sont permises par la loi.
 
 De manière générale et sans s’y limiter, nous collectons des RP aux fins suivantes :
@@ -61,7 +61,7 @@ Répondre aux communications qui nous sont acheminées;
 Confirmer votre identité, vérifier l’exactitude de vos RP et les mettre à jour.
 
 
-6. Consentement à la collecte, à l’utilisation et à la communication de vos renseignements personnels
+## Consentement à la collecte, à l’utilisation et à la communication de vos renseignements personnels
 {{ site.data.website.sourceOrganization.name.fr }} collecte, utilise et communique vos RP à la condition d’avoir obtenu votre consentement conformément aux exigences applicables, sauf dans certains cas précis prévus par la loi.
 
 Si {{ site.data.website.sourceOrganization.name.fr }} devait utiliser ou communiquer vos RP à d’autres fins que celles auxquelles vous avez consentis, il obtiendra de nouveau votre consentement, sauf dans les cas où un tel consentement n’est pas nécessaire pour effectuer d’autres utilisations, ou lorsque des exceptions sont prévues par la loi.
@@ -70,7 +70,7 @@ Il est possible de retirer votre consentement à l’utilisation et à la commun
 
 
 
-7. Méthodes de collecte de vos renseignements personnels
+## Méthodes de collecte de vos renseignements personnels
 a) Directement auprès de vous
 La plupart des RP que nous collectons sont ceux que vous nous fournissez directement, notamment lorsque vous :
 
@@ -88,7 +88,7 @@ c) Par l’entremise de nos plateformes Web
 
 
 
-8. Limitation de la communication de vos renseignements personnels
+## Limitation de la communication de vos renseignements personnels
 Les RP sont accessibles aux employés de {{ site.data.website.sourceOrganization.name.fr }} selon le principe du besoin de savoir, c’est-à-dire à la condition que ces RP soient nécessaires à l’exercice de leurs fonctions.
 
 Les RP collectés peuvent être communiqués à :
@@ -99,14 +99,14 @@ Nous nous assurons de ne communiquer que les RP nécessaires dans chaque cas. To
 
 
 
-9. Limitation de la conservation de vos renseignements personnels
+## Limitation de la conservation de vos renseignements personnels
 Nous ne conservons vos RP que pour la durée raisonnable nécessaire à l’atteinte des finalités pour lesquelles ils ont été collectés, y compris pour répondre aux exigences légales, comptables et de divulgation ainsi que pour faire valoir ou défendre nos droits. Par exemple, nous ne conservons pas votre préférence de magasin après vous avoir informé du magasin le plus proche lorsque vous utilisez notre application; cette information est enregistrée dans un fichier témoin (« cookie ») sur votre appareil.
 
 De façon générale, vos RP sont conservés au Canada, où nos plateformes Web sont hébergées. Il est toutefois possible que des partenaires d’affaires auxquels nous communiquons des RP les conservent dans d’autres pays, auquel cas, {{ site.data.website.sourceOrganization.name.fr }} consultera les lois et les pratiques de protection des RP applicables dans le pays visé et s’assurera d’offrir une protection adéquate de vos RP.
 
 
 
-10. Messages électroniques commerciaux
+## Messages électroniques commerciaux
 Nous respectons la Loi canadienne anti-pourriel dans nos communications électroniques commerciales – qu’elles aient lieu par courriel, par message texte ou sur les médias sociaux.
 
 Lorsque nous collectons votre courriel, numéro de téléphone cellulaire ou adresse sur les médias sociaux, nous utilisons ces informations d’une façon conforme à la Loi canadienne anti-pourriel. Ainsi, nous ne pouvons vous envoyer des messages électroniques commerciaux que si nous avons votre consentement exprès ou si la loi nous le permet. Nous pouvons notamment vous transmettre des messages électroniques commerciaux dans les deux ans suivant une transaction ou dans les six mois suivant une demande liée à nos services.
@@ -115,7 +115,7 @@ Vous pouvez à tout moment retirer votre consentement afin de ne plus recevoir d
 
 
 
-11. Mesures de sécurité
+## Mesures de sécurité
 Nous prenons la sécurité de nos systèmes d’information et de vos RP au sérieux. Les mesures de sécurité (notamment matérielles, électroniques et organisationnelles) que nous mettons en place sont appropriées eu égard à la sensibilité des RP que nous détenons. Nos mesures de sécurité font en outre l’objet de vérifications indépendantes.
 
 L’utilisation de nos plateformes Web se fait dans le cadre d’un échange d’informations chiffrées, au premier chef lorsque vous nous communiquez des informations de paiement ou que vous vous connectez à votre espace client. Lorsque vous effectuez un achat en ligne, les informations de votre carte de crédit peuvent être conservées par notre fournisseur de services de paiement, qui met en place les mesures de sécurité exigées par les émetteurs de carte de crédit. {{ site.data.website.sourceOrganization.name.fr }} ne conserve pas ces informations.
@@ -124,7 +124,7 @@ Même si nous appliquons plusieurs mesures de sécurité pour protéger adéquat
 
 
 
-12. Vos droits et comment les exercer
+## Vos droits et comment les exercer
 {{ site.data.website.sourceOrganization.name.fr }} respecte les droits qui vous sont reconnus par la loi à l’égard de vos RP et a mis en place des procédures pour traiter les demandes suivantes :
 
 Accès et rectification : Vous pouvez consulter les RP que nous avons collectés sur vous, vérifier leur exactitude, les modifier si nécessaire et en demander une copie, sous réserve toutefois des exceptions prévues par la loi. Vous pouvez en outre directement modifier certains RP dans votre compte client sur nos plateformes Web.
@@ -135,7 +135,7 @@ Toute demande en lien avec la présente section doit être transmise au RPRP aux
 
 
 
-13. Mise à jour et révision
+## Mise à jour et révision
 a) Version applicable.
 
 Le présent Engagement prend effet à la date susmentionnée et remplace toutes les versions antérieures. La collecte, l’utilisation, la divulgation et tout autre traitement des RP d’une Personne concernée par {{ site.data.website.sourceOrganization.name.fr }} seront régis par la version de l’Engagement en vigueur à ce moment‑là.
